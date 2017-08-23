@@ -209,7 +209,7 @@ contract EYE {
 
     function website() constant returns(string) {
 
-        return "https://github.com/AdamLucifer/EYE-coin";
+        return "https://github.com/AdamLucifer/EYE-COIN";
     }
 
 }
